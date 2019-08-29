@@ -6,8 +6,7 @@
 * A much more detailed report about the ideas/algorithm working can be found [here](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/Human-Like%20Path%20Algorithm%20Based%20on%20A_.pdf).
 
 ### A quick demonstration:
-
-<iframe src="https://editor.p5js.org/guoyuzhou004@gmail.com/embed/1NNJFJHAW"></iframe>
+Here is an animation from the p5 framework to check out: [Click me!](https://editor.p5js.org/guoyuzhou004@gmail.com/full/1NNJFJHAW)
 
 To show the result of this research/project, we choose a relatively larger map for testing. And here is a brutal presentation of the project:
 
