@@ -1,6 +1,13 @@
 # humanLikePathFinding
+
+### General:
 * The main purpose of this research project is to establish an idea to make a zig-zag path smooth and human-like.
 * To have a detailed explanation about this project and how I approach, please visit the report named "Human-Like Path Finding Algorithm Based on Classic A*"
+* A much more detailed report about the ideas/algorithm working can be found [here](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/Human-Like%20Path%20Algorithm%20Based%20on%20A_.pdf).
+
+### A quick demonstration:
+
+<iframe src="https://editor.p5js.org/guoyuzhou004@gmail.com/embed/1NNJFJHAW"></iframe>
 
 To show the result of this research/project, we choose a relatively larger map for testing. And here is a brutal presentation of the project:
 
