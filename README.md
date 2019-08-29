@@ -10,12 +10,12 @@ Here is an animation from the p5 framework to check out: [Click me!](https://edi
 
 To show the result of this research/project, we choose a relatively larger map for testing. And here is a brutal presentation of the project:
 
-Stage one (the classic A* algorithm without any adjustment)
-* ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage1.png)
+* Stage one (the classic A* algorithm without any adjustment)
+  ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage1.png)
 
-Stage two (based on A*, with wall-avoiding algorithm added, you can see that the path is now trying to get to the middle of the path so that it is more human-like)
-* ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage2.png)
+* Stage two (based on A*, with wall-avoiding algorithm added, you can see that the path is now trying to get to the middle of the path so that it is more human-like)
+  ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage2.png)
 
-Stage three (with advanced wall-avoiding strategy, and Bezier curve applied, visually more smooth)
-* ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage3.png)
+* Stage three (with advanced wall-avoiding strategy, and Bezier curve applied, visually more smooth)
+  ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage3.png)
 
