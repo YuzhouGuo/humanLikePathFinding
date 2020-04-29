@@ -12,16 +12,15 @@ To show the result of this research/project, we choose a relatively larger map f
 
 * Stage one (the classic A* algorithm without any adjustment)
 
-  ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage1.png){:height="50%" width="50%"}
-  <img src="https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage1.png" width="50" height="50">
+  <img src="https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage1.png" width="100" height="100">
 
 * Stage two (based on A*, with wall-avoiding algorithm added, you can see that the path is now trying to get to the middle of the path so that it is more human-like)
 
-  ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage2.png){:height="50%" width="50%"}
+  <img src="https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage2.png" width="100" height="100">
 
 * Stage three (with advanced wall-avoiding strategy, and Bezier curve applied, visually more smooth)
 
-  ![alt text](https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage3.png){:height="50%" width="50%"}
+  <img src="https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage3.png" width="100" height="100">
 
 ### Source Code:
 * The source code for this project is just the sourceCode.js file, with default HTML and CSS code provided by the p5 framework online editor.
